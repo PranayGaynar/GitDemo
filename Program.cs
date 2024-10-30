@@ -10,7 +10,7 @@ namespace DemoGithub1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello,This Is Demo For Github!");
+            Console.WriteLine("Hello,This Is Demo For Github! Ready to change is");
             Console.ReadKey();
 
 
