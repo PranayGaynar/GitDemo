@@ -11,7 +11,7 @@ namespace DemoGithub1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello,This Is Demo For Github! Ready to change is");
-            Console.WriteLine("Hi Pranay take a pull Request");
+            Console.WriteLine("Hi Pranay apply push on github Request");
 
             Console.ReadKey();
 
